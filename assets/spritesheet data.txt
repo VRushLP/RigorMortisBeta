@@ -1,4 +1,4 @@
-knight run cycle
+knight run sheet
 frame width: 55
 frame height: 54
 number of frames: 4
@@ -6,10 +6,18 @@ total width: 330
 total height: 54
 start point: 0,0
 
-knight jump cycle
+knight jump sheet
 frame width: 52
 frame height: 61
 num frames: 2
 total width: 104
 total height: 61
+start point: 0,0
+
+knight attack sheet
+frame width: 94
+frame height: 54
+num frames: 4
+total width: 376
+total height: 54
 start point: 0,0
