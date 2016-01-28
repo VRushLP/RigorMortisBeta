@@ -21,3 +21,13 @@ num frames: 4
 total width: 376
 total height: 54
 start point: 0,0
+
+FOREST
+forest block.png
+25 x 25
+
+forest platform.png
+75 x 25
+
+forest platform2x.png
+150 x 50
