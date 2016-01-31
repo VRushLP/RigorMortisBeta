@@ -42,7 +42,7 @@ AM.downloadAll(function () {
     
     forestStage.parseLevelFile(AM.getAsset("./txt/forest-stage.txt").split("\n"), AM);    
     gameEngine.addStage(forestStage);
-
+    
     var forestBGM = new Howl({
         urls: ['./snd/bloody_tears.mp3'],
         volume: .1,
@@ -60,7 +60,5 @@ AM.downloadAll(function () {
 
     //awake.play();
     forestBGM.play();
-    gameEngine.start();
-    
     gameEngine.start();
 });
